@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>jp.co.flect</groupId>
+  <artifactId>excel2canvas</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140501.023006</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20140501023006</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1-20140501.023006-2</value>
+        <updated>20140501023006</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-20140501.023006-2</value>
+        <updated>20140501023006</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
