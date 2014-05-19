@@ -5,7 +5,7 @@
     <artifactId>roomframework_2.10</artifactId>
     <packaging>jar</packaging>
     <description>roomframework</description>
-    <version>0.9.1</version>
+    <version>0.9.2</version>
     <name>roomframework</name>
     <organization>
         <name>roomframework</name>
