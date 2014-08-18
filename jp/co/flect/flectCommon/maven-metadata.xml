@@ -3,11 +3,12 @@
   <groupId>jp.co.flect</groupId>
   <artifactId>flectCommon</artifactId>
   <versioning>
-    <release>1.2.1</release>
+    <release>1.2.2</release>
     <versions>
       <version>1.2</version>
       <version>1.2.1</version>
+      <version>1.2.2</version>
     </versions>
-    <lastUpdated>20140729080847</lastUpdated>
+    <lastUpdated>20140818063845</lastUpdated>
   </versioning>
 </metadata>
